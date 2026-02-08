@@ -52,5 +52,5 @@ namespace CollegeWebApplication.Models
 
         public string? YearOfStudy { get; set; }
     }
-}
+
 }
